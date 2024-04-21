@@ -1,0 +1,11 @@
+body {
+    font-family:
+        Gill Sans Extrabold,
+        sans-serif;
+    width: 100vh;
+    /* height: 100vh; */
+    background-color: #e4e4e4;
+    /* display: grid; 
+    justify-content: center;
+    align-items: center; */
+}
